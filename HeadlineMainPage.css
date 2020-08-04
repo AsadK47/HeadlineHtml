@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  background-image: linear-gradient(teal, white);
+}
+
+body {
+  font-family: monospace;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: linear-gradient(teal, white);
+  font-size: x-large;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: white;
+}
