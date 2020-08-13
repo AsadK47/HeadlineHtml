@@ -31,3 +31,14 @@ li a {
 li a:hover {
   color: white;
 }
+
+.container {
+  display: flex;
+  background-color: orange;
+}
+
+.card {
+  margin: 20px;
+  padding: 20px;
+  background-color: blue;
+}
